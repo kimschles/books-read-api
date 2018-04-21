@@ -1,0 +1,18 @@
+{
+  "name": "books-read-api",
+  "version": "1.0.0",
+  "description": "A RESTful API to keep track of books that I've read. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Knex",
+    "API"
+  ],
+  "author": "Kim Schlesinger",
+  "license": "MIT"
+}
