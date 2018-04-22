@@ -3,7 +3,6 @@ exports.up = function(knex, Promise) {
     table.increments('id');
     table.varchar('title');
     table.varchar('author');
-    table.text('description');
     table.text('cover_image');
   });
 };
