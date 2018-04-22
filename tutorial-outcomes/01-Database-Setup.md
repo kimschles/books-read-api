@@ -1,5 +1,7 @@
 # Tutorial: Build a RESTful API using Node, Express, Knex and PostgreSQL
 
+[Video: 01-Database-Setup](https://youtu.be/uQbKvaOOA7w)
+
 ## Database Setup
 
 By the end of this video, you will be able to:
@@ -12,4 +14,4 @@ By the end of this video, you will be able to:
   * Setup and run migrations
 * [ ] Add seed data to the table
   * Setup and run seeds
-* [ ] Provision a database to heroku
+* [ ] Provision a database to heroku, run migrations and seeds
