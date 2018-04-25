@@ -15,3 +15,7 @@ By the end of this video, you will be able to:
 * [ ] Add seed data to the table
   * Setup and run seeds
 * [ ] Provision a database to heroku, run migrations and seeds
+
+## Resources
+
+* [Knex Cheatsheet](https://devhints.io/knex)
